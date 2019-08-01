@@ -1,0 +1,141 @@
+body {
+    font-family: tahoma,arial,"\5B8B\4F53";
+    margin: 0;
+    font-size: 12px;
+    color: #333;
+}
+a{
+    color:#333;
+}
+td, th, font {
+    font-size: 12px;
+}
+zhi{
+    display:block;
+}
+form, dl, ul, ol, dt, dd, li {
+    margin: 0;
+    padding: 0;
+}
+input[type=submit],button,.hand{
+    cursor:pointer;
+}
+button{
+    line-height:normal;
+}
+dt, dd, li {
+    list-style: none;
+}
+img {
+    vertical-align: bottom;
+    border: 0;
+}
+:focus {
+    outline: 0;
+}
+.nounderline:hover, .nounderline a:hover {
+    text-decoration: none;
+}
+.zoom {
+    zoom: 1;
+    overflow: hidden;
+}
+.zom {
+    *zoom: 1;
+    _zoom: 1;
+}
+.YHfont {
+    font-family: "微软雅黑","Microsoft YaHei";
+}
+.Simfont{
+	font-family: simSun,"\5B8B\4F53",tahoma, arial;
+}
+.ellips {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.allIsNormal *, .allIsNormal {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+}
+.clear {
+    clear: both;
+}
+.zero {
+    line-height:0 !important;
+    font-size:0 !important;
+}
+div.bnS{
+    text-align:center;
+    padding-top:10px;
+}
+
+a.bnS,span.bnS,input.bnS{
+    display:inline-block;
+    color: #FFF;
+    background-color: #0085ce;
+    border:1px solid #07c;
+    box-shadow: inset 0 1px 0 #66bfff;
+    border-radius: 2px;
+    padding:.4em 2.3em;
+    text-decoration:none;
+    font-size:16px;
+    font-weight:bold;
+}
+span.bnS,input.bnS{
+    cursor:pointer;
+    padding:.2em 2em;
+}
+a.bnS:hover,span.bnS:hover,input.bnS:hover{
+    color: rgba(255,255,255,0.9);
+    background-color: #07c;
+    border-color: #005999;
+    box-shadow: inset 0 1px 0 #3af;
+}
+#jsonhost{
+    display:none;
+}
+/*******/
+.grid{
+    border-collapse:collapse;
+}
+.grid td,.grid th{
+    border:1px solid #cccdd1;
+}
+.grid tr{
+    background-color:#fff;
+    color:#000;
+}
+.grid tr.head{
+    background-color:#bacbd5;
+    font-weight:bold;
+}
+.grid tr.alter{
+    background-color:#eeeff4;
+}
+.grid td a{
+    color:#0a1a98;
+}
+.grid tr.hover{
+    background-color:#fffee1;
+}
+.fwvoid{
+    background:none !important;
+    background-color:transparent !important;
+    color:red !important;
+    padding:20px 20px 30px 5px !important;
+}
+.fwvoid h1{
+    font-weight:bold;
+}
+.fwvoid p{
+    line-height:1.5;
+    padding:7px 0 0 0;
+    min-height:100px;
+    _overflow:visible;
+    _height:100px;
+}

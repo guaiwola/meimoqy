@@ -1,0 +1,1 @@
+$(function(){$(".header-links li").hover(function(){$(this).children().addClass("on");$(this).children(".group").stop(true,true).slideDown(300)},function(){$(this).children().removeClass("on");$(this).children(".group").stop(true,true).slideUp(300)})});

@@ -1,0 +1,452 @@
+﻿﻿<!DOCTYPE HTML>
+<html>
+
+<head>
+
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <!-- Force latest IE rendering engine or ChromeFrame if installed -->
+  <!--[if IE]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<![endif]-->
+  <meta http-equiv="content-language" content="zh-CN" />
+  <title>魅魔MAYMOE官方网站</title>
+  <meta name="keywords" content="化妆品、魅魔、魅魔护肤品、魅魔六胜肽青春原液、魅魔宝生堂祛斑霜" />
+  <meta name="description" content="化妆品、魅魔、魅魔护肤品、魅魔六胜肽青春原液、魅魔宝生堂祛斑霜" />
+  <link rel="shortcut icon" href="/templets/default/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/templets/default/images/favicon.ico" mce_href="favicon.ico" type="image/x-icon">
+  <!--[if lt IE 9]>    
+		<script src="static/js/jquery-1.10.2.min.js" type="text/javascript" charset="utf-8"></script>		
+	<![endif]-->
+  <!--[if gte IE 9]>
+		<script src="static/js/jquery-2.0.3.min.js" type="text/javascript" charset="utf-8">	</script>		
+	<![endif]-->
+  <link rel="stylesheet" href="static/css/bootstrap.min.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="static/css/style.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="static/css/jquery.lightbox.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="static/css/jquery.fancybox.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="static/css/jquery.fancybox-buttons.css" />
+  <link rel="stylesheet" type="text/css" href="static/css/jquery.fancybox-thumbs.css" />
+  <script src="static/js/jquery-2.0.3.min.js" type="text/javascript" charset="utf-8"></script>
+  <!--<![endif]-->
+  <script src="static/js/tools.js" type="text/javascript" charset="utf-8"></script>
+  <script src="static/js/template.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="static/js/jquery.easing.js" type="text/javascript" charset="utf-8"></script>
+  <script src="static/js/jquery.situa.js" type="text/javascript" charset="utf-8"></script>
+  <script src="static/js/jquery.scrollloading.js" type="text/javascript" charset="utf-8"></script>
+  <script src="static/js/init.js" type="text/javascript" charset="utf-8"></script>
+  <!--[if IE 6]>
+		<script src="static/js/jquery-1.7.2.js" type="text/javascript" charset="utf-8"></script>
+		<script src="static/js/ie6png.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript">
+			IE6PNG.fix('*');
+		</script>
+	<![endif]-->
+  <!-- Add mousewheel plugin (this is optional) -->
+  <!-- Add fancyBox main JS and CSS files -->
+  <script type="text/javascript" src="static/js/jquery.fancybox.js"></script>
+  <!-- Add Button helper (this is optional) -->
+  <script type="text/javascript" src="static/js/jquery.fancybox-buttons.js"></script>
+  <!-- Add Thumbnail helper (this is optional) -->
+  <script type="text/javascript" src="static/js/jquery.fancybox-thumbs.js"></script>
+  <!-- Add Media helper (this is optional) -->
+  <script type="text/javascript" src="static/js/jquery.fancybox-media.js"></script>
+</head>
+
+<body>
+  <div class="body-main" style="background:#fff">
+    <div class="header">
+      <div class="max-min">
+        <div class="logo fl">
+          <a href="/p_index" title="">
+            <img src="static/picture/logo.png" style="margin-top:10px;">
+          </a>
+        </div>
+        <div class="menu fl">
+          <ul>
+            <li class="hover">
+              <div class="navf">
+                <a href="/p_index" title="首页">
+                  <span class="navcurbg"></span>
+                  <span class="navcur">首页</span>
+                  <span class="navon">HOME</span>
+                </a>
+              </div>
+            </li>
+            <li class="">
+              <div class="navf">
+                <a href="/p_products" title="">
+                  <span class="navcurbg"></span>
+                  <span class="navcur">产品中心</span>
+                  <span class="navon">PRODUCT</span>
+                </a>
+              </div>
+              <div class="nav-son">
+                <ul>
+                  {{range .ProductTags}}
+                  <li>
+                    <a href="/p_products?id={{.ID}}" title="{{.Name}}">{{.Name}}</a>
+                  </li>
+                  {{end}}
+                </ul>
+              </div>
+            </li>
+            
+            <li class="">
+              <div class="navf">
+                <a href="/p_partners" title="">
+                  <span class="navcurbg"></span>
+                  <span class="navcur">合作商家</span>
+                  <span class="navon">Business</span>
+                </a>
+              </div>
+              <div class="nav-son">
+                <ul>
+
+                  <li>
+                    <a href="/p_partners" title="在线购买">在线购买</a>
+                  </li>
+
+                </ul>
+              </div>
+            </li>
+            <li class="">
+              <div class="navf">
+                <a href="/p_fangwei" title="">
+                  <span class="navcurbg"></span>
+                  <span class="navcur">服务支持</span>
+                  <span class="navon">SERVICE</span>
+                </a>
+              </div>
+              <div class="nav-son">
+                <ul>
+
+                  <li>
+                    <a href="/p_fangwei" title="防伪查询">防伪查询</a>
+                  </li>
+
+                  <li>
+                    <a href="/p_shouhou" title="售后服务">售后服务</a>
+                  </li>
+
+                  <li>
+                    <a href="/p_feedback" title="客户反馈">客户反馈</a>
+                  </li>
+
+                  <li>
+                    <a href="/p_shouquan" title="授权查询">授权查询</a>
+                  </li>
+
+                </ul>
+              </div>
+            </li>
+            <li class="">
+              <div class="navf">
+                <a href="/p_news" title="">
+                  <span class="navcurbg"></span>
+                  <span class="navcur">资讯中心</span>
+                  <span class="navon">NEWS</span>
+                </a>
+              </div>
+              <div class="nav-son">
+                <ul>
+                  <li>
+                    <a href="/p_news" title="公司新闻">公司新闻</a>
+                  </li>
+                </ul>
+              </div>
+            </li>
+            <li class="">
+              <div class="navf">
+                <a href="/p_about" title="">
+                  <span class="navcurbg"></span>
+                  <span class="navcur">关于我们</span>
+                  <span class="navon">ABOUT US</span>
+                </a>
+              </div>
+              <div class="nav-son">
+                <ul>
+
+                  <li>
+                    <a href="/p_about" title="品牌故事">品牌故事</a>
+                  </li>
+
+                  <li>
+                    <a href="/p_about" title="资质认证">资质认证</a>
+                  </li>
+
+                  <li>
+                    <a href="/p_contact" title="联系我们">联系我们</a>
+                  </li>
+
+                </ul>
+              </div>
+            </li>
+            <li class="">
+              <div class="navf">
+                <a href="p_weishang" title="">
+                  <span class="navcurbg"></span>
+                  <span class="navcur">微商招商</span>
+                  <span class="navon"></span>
+                </a>
+              </div>
+              <div class="nav-son">
+                <ul>
+
+                </ul>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="hotline fr">
+          <!-- <img src="static/picture/menu_line.png"> -->
+        </div>
+      </div>
+    </div>
+    <div class="side">
+      <ul>
+
+        <li>
+          <a href="/p_about" title="联系我们">
+            <div class="sidebox">
+              <img src="static/picture/side_icon02.png">联系我们 </div>
+          </a>
+        </li>
+        <li>
+          <a class="go_top1" href="http://wpa.qq.com/msgrd?v=3&uin=398095643&site=qq&menu=yes">
+            <div class="sidebox">
+              <img src="static/picture/side_icon04.png">QQ客服 </div>
+          </a>
+        </li>
+
+        <li style="border:none;">
+          <a href="javascript:goTop();" class="sidetop">
+            <img src="static/picture/side_icon05.png">
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="index-banner" id="banner">
+      <ul>
+        {{range .Banners}}
+        <li data-img="{{.Pics}}" data-url="{{.URL}}"></li>
+        {{end}}
+      </ul>
+      <div class="number" id="number"></div>
+    </div>
+    <div class="index-main">
+      <div class="main-title">
+        <h2 class="max-min">
+          <span>产品展示</span> / PRODUCT DISPLAY</h2>
+      </div>
+      <div class="max-min index-pro clearfix">
+        {{range .ProductsHot}}
+        <div class="index-probox" id="proser0{{.Index}}">
+          <ul>
+            <li style="background-image:url({{.Pic}})"></li>
+          </ul>
+          <div class="number" id="pronum0{{.Index}}"></div>
+          <div class="proboxbg"></div>
+          <div class="protext">
+            <a href="{{.URL}}">
+              <h3>{{.Title}}</h3>
+            </a>
+          </div>
+        </div>
+        {{end}}
+
+        <!-- <div class="index-probox" id="proser01">
+          <ul>
+            <li style="background-image:url(static/images/1_2042397261.jpg)"></li>
+          </ul>
+          <div class="number" id="pronum01"></div>
+          <div class="proboxbg"></div>
+          <div class="protext">
+            <a href="/p_news">
+              <h3>新品上市</h3>
+            </a>
+          </div>
+        </div>
+        <div class="index-probox" id="proser02">
+          <ul>
+            <li style="background-image:url(static/images/1_2047264181.jpg)"></li>
+          </ul>
+          <div class="number" id="pronum02"></div>
+          <div class="proboxbg"></div>
+          <div class="protext">
+            <a href="/p_products">
+              <h3>精油系列</h3>
+            </a>
+          </div>
+        </div>
+        <div class="index-probox" id="proser03">
+          <ul>
+            <li style="background-image:url(static/images/1_2043433991.jpg)"></li>
+          </ul>
+          <div class="number" id="pronum03"></div>
+          <div class="proboxbg"></div>
+          <div class="protext">
+            <a href="/p_products">
+              <h3>润滑系列</h3>
+            </a>
+          </div>
+        </div>
+        <div class="index-probox" id="proser04">
+          <ul>
+            <li style="background-image:url(static/images/1_2044525131.jpg)"></li>
+          </ul>
+          <div class="number" id="pronum04"></div>
+          <div class="proboxbg"></div>
+          <div class="protext">
+            <a href="/p_products">
+              <h3>干细胞原液系列</h3>
+            </a>
+          </div>
+        </div> -->
+      </div>
+      <div class="max-min ">
+        <a href="/p_products" class="index-promore">更多产品系列 / LEARN MORE</a>
+      </div>
+    </div>
+
+    <div class="index-main" style="height:620px;">
+      <div class="main-title ">
+        <h2 class="max-min">
+          <span>魅魔优势</span> / UZ ADVANTAGE</h2>
+      </div>
+      <div class="index-brand max-min clearfix">
+        <div class="index-brandbox" onClick="window.location='p_products'" id="brandbox1">
+          <div class="brand-icon icon01"></div>
+          <div class="brand-title">
+            <h4>产品系列</h4>
+            <p>PRODUCT SERIES</p>
+            <span></span>
+          </div>
+          <div class="brand-intro">轻奢美妆领航者
+            <br> 美丽生活每一天！
+          </div>
+          <div class="nrand-jia"></div>
+        </div>
+        <div class="index-brandbox" onClick="window.location='p_fangwei'" id="brandbox2">
+          <div class="brand-icon icon02"></div>
+          <div class="brand-title">
+            <h4>服务与支持</h4>
+            <p>SERVICE & SUPPORT</p>
+            <span></span>
+          </div>
+          <div class="brand-intro">您可以在这里获得‘防伪查询’‘售后服务’等支持 享受魅魔 提供的更多服务</div>
+          <div class="nrand-jia"></div>
+        </div>
+        <div class="index-brandbox" onClick="window.location='p_partners'" id="brandbox3">
+          <div class="brand-icon icon03"></div>
+          <div class="brand-title">
+            <h4>合作伙伴</h4>
+            <p>Partner</p>
+            <span></span>
+          </div>
+          <div class="brand-intro">线上线下多渠道销售</div>
+          <div class="nrand-jia"></div>
+        </div>
+        <div class="index-brandbox" onClick="window.location='p_about'" id="brandbox4">
+          <div class="brand-icon icon04"></div>
+          <div class="brand-title">
+            <h4>关于我们</h4>
+            <p>About us</p>
+            <span></span>
+          </div>
+          <div class="brand-intro">带您了解更多魅魔故事</div>
+          <div class="nrand-jia"></div>
+        </div>
+      </div>
+    </div>
+    <!-- footer -->
+    <div class="foot-links">
+      <ul class="foot-links-content">
+        <li>
+          <div class="title">产品中心</div>
+          {{range .ProductTags}}
+          <a href="/p_products" target="_blank" title="{{.Name}}">{{.Name}}</a>
+          {{end}}
+
+        </li>
+        
+        <li>
+          <div class="title">合作商家</div>
+
+          <a href="/p_partners" target="_blank" title="">在线购买</a>
+
+        </li>
+        <li>
+          <div class="title">服务支持</div>
+
+          <a href="/p_fangwei" target="_blank" title="">防伪查询</a>
+
+          <a href="/p_shouhou" target="_blank" title="">售后服务</a>
+
+          <a href="/p_feedback" target="_blank" title="">客户反馈</a>
+
+          <a href="/p_shouquan" target="_blank" title="">授权查询</a>
+
+        </li>
+        <li>
+          <div class="title">资讯中心</div>
+
+
+          <a href="/p_news" target="_blank" title="">公司新闻</a>
+
+
+
+        </li>
+        <li>
+          <div class="title">关于我们</div>
+
+          <a href="/p_about" target="_blank" title="">品牌故事</a>
+
+          <a href="/p_about" target="_blank" title="">资质认证</a>
+
+          <a href="/p_contact" target="_blank" title="">联系我们</a>
+
+        </li>
+        <li style="width:18%">
+          <a rel="nofollow" href="/p_index" title="联系我们" style="padding:0; background:none">
+            <div class="title">联系我们</div>
+            <div class="foot-zxkf">
+              <p class="foot-wz-01 foot-kf-01" style="line-height:30px">企业网址</p>
+              <p class="foot-wz-02" style="line-height:15px;text-decoration:underline;">http://www.meimocn.com/</p>
+            </div>
+            <div>
+              <p style="line-height:30px;font-size: 20px;font-family: KaiTi, KaiTi_GB2312, SimSun, FangSong_GB2312, Courier, monospace, Times, serif;font-weight: bold;color: mediumblue;">魅魔-您身边的护肤专家</p>
+            </div>
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="foot-bt">
+      <div class="foot-bt-content">
+        <div class="left">
+          <div class="ft-logo-png"></div>
+          <div class="ft-info">© 2005-2015厦门魅魔生物科技有限公司 版权所有，并保留所有权利。粤ICP备88888号-3
+             
+          </div>
+        </div>
+        <div class="foot-bt-links">
+          <a rel="nofollow" href="/p_about" target="_blank" title="联系我们">联系我们</a>
+        </div>
+      </div>
+    </div>
+    <script>
+      $(function () {
+        $(".menu li:has(div)").eq(0).addClass("hover");
+        $(".scrollLoading").scrollLoading();
+
+      })
+    </script>
+    <script src="static/js/jquery.menu.js" type="text/javascript" charset="utf-8"></script>
+    <script src="static/js/jquery.banner.js" type="text/javascript" charset="utf-8"></script>
+    <script>
+       
+    </script>
+  </div>
+  <!-- end #body-main -->
+</body>
+
+</html>

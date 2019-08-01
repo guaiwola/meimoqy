@@ -1,0 +1,374 @@
+2019/01/10 10:22:55.601 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/01/10 10:23:07.487 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/01/10 11:21:26.015 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 12:01:43.505 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 14:24:00.181 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 16:16:46.814 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 16:17:28.396 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 16:53:13.416 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 16:54:26.980 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 16:55:51.619 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 16:56:45.861 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 17:52:22.847 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 17:53:01.836 [D] [controller.go:283]  template Execute err: template: admin/upload-news.html:190:36: executing "admin/upload-news.html" at <.News.Pics>: can't evaluate field Pics in type interface {}
+2019/02/20 17:53:01.836 [E] [server.go:2694]  template: admin/upload-news.html:190:36: executing "admin/upload-news.html" at <.News.Pics>: can't evaluate field Pics in type interface {}
+2019/02/20 17:59:15.557 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 18:00:46.556 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 18:09:11.264 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 18:11:10.895 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 18:11:57.366 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 18:12:09.731 [D] [controller.go:283]  template Execute err: template: news.html:243:28: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:12:09.731 [E] [server.go:2694]  template: news.html:243:28: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:12:11.942 [D] [controller.go:283]  template Execute err: template: news.html:243:28: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:12:11.942 [E] [server.go:2694]  template: news.html:243:28: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:12:24.750 [D] [controller.go:283]  template Execute err: template: news.html:243:28: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:12:24.750 [E] [server.go:2694]  template: news.html:243:28: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:12:56.785 [D] [controller.go:283]  template Execute err: template: news.html:243:33: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:12:56.786 [E] [server.go:2694]  template: news.html:243:33: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:12:57.560 [D] [controller.go:283]  template Execute err: template: news.html:243:33: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:12:57.560 [E] [server.go:2694]  template: news.html:243:33: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:18:32.355 [D] [controller.go:283]  template Execute err: template: news.html:243:33: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:18:32.355 [E] [server.go:2694]  template: news.html:243:33: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:18:32.954 [D] [controller.go:283]  template Execute err: template: news.html:243:33: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:18:32.955 [E] [server.go:2694]  template: news.html:243:33: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:19:23.432 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/20 18:19:57.491 [D] [controller.go:283]  template Execute err: template: news.html:243:33: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/20 18:19:57.491 [E] [server.go:2694]  template: news.html:243:33: executing "news.html" at <.Pics>: can't evaluate field Pics in type *controllers.News
+2019/02/21 10:33:12.292 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/02/21 10:48:22.323 [D] [controller.go:283]  template Execute err: template: news_detail.html:298:28: executing "news_detail.html" at <.News.Desc>: invalid value; expected string
+2019/02/21 10:48:22.323 [E] [server.go:2694]  template: news_detail.html:298:28: executing "news_detail.html" at <.News.Desc>: invalid value; expected string
+2019/02/21 11:05:41.562 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/03/19 15:27:51.674 [I] [asm_amd64.s:2361]  http server Running on http://:8081
+2019/03/19 16:41:53.496 [I] [asm_amd64.s:2361]  http server Running on http://:8081
+2019/03/27 14:36:39.447 [I] [asm_amd64.s:2361]  http server Running on http://:8081
+2019/03/27 14:37:08.590 [C] [asm_amd64.s:573]  the request url is  /baidu_verify_NRX92oGNK8.html
+2019/03/27 14:37:08.590 [C] [asm_amd64.s:573]  Handler crashed with error can't find templatefile in the path:views//baidu_verify_NRX92oGNK8.html
+2019/03/27 14:37:08.590 [C] [asm_amd64.s:573]  C:/Go/src/runtime/asm_amd64.s:573
+2019/03/27 14:37:08.590 [C] [asm_amd64.s:573]  C:/Go/src/runtime/panic.go:502
+2019/03/27 14:37:08.590 [C] [asm_amd64.s:573]  D:/GoWorkspace/src/github.com/astaxie/beego/template.go:75
+2019/03/27 14:37:08.590 [C] [asm_amd64.s:573]  D:/GoWorkspace/src/github.com/astaxie/beego/controller.go:283
+2019/03/27 14:37:08.590 [C] [asm_amd64.s:573]  D:/GoWorkspace/src/github.com/astaxie/beego/controller.go:234
+2019/03/27 14:37:08.590 [C] [asm_amd64.s:573]  D:/GoWorkspace/src/github.com/astaxie/beego/controller.go:214
+2019/03/27 14:37:08.590 [C] [asm_amd64.s:573]  D:/GoWorkspace/src/github.com/astaxie/beego/router.go:864
+2019/03/27 14:37:08.590 [C] [asm_amd64.s:573]  C:/Go/src/net/http/server.go:2694
+2019/03/27 14:37:08.590 [C] [asm_amd64.s:573]  C:/Go/src/net/http/server.go:1830
+2019/03/27 14:37:08.590 [C] [asm_amd64.s:573]  C:/Go/src/runtime/asm_amd64.s:2361
+2019/03/27 14:37:08.590 [server.go:2921]  [HTTP] http: multiple response.WriteHeader calls
+2019/03/27 14:43:51.085 [I] [asm_amd64.s:2361]  http server Running on http://:8081
+2019/04/12 11:48:48.524 [I] [asm_amd64.s:2361]  http server Running on http://:8081
+2019/04/13 14:44:51.353 [I] [asm_amd64.s:2361]  http server Running on http://:8081
+2019/04/13 14:50:07.485 [I] [asm_amd64.s:2361]  http server Running on http://:8081
+2019/04/15 17:37:26.108 [I] [asm_amd64.s:2361]  http server Running on http://:8081
+2019/08/01 14:55:53.866 [I] [asm_amd64.s:1337]  http server Running on http://:3306
+2019/08/01 14:55:53.867 [C] [asm_amd64.s:1337]  ListenAndServe:  listen tcp :3306: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2019/08/01 14:56:22.762 [I] [asm_amd64.s:1337]  http server Running on http://:8081
+2019/08/01 14:56:48.036 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     2.9919ms|   match|[44m GET     [0m /     r:/
+2019/08/01 14:56:48.058 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/css/style.css
+2019/08/01 14:56:48.058 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /static/css/bootstrap.min.css
+2019/08/01 14:56:48.060 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/css/jquery.lightbox.css
+2019/08/01 14:56:48.060 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/css/jquery.fancybox.css
+2019/08/01 14:56:48.061 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/css/jquery.fancybox-buttons.css
+2019/08/01 14:56:48.062 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/css/jquery.fancybox-thumbs.css
+2019/08/01 14:56:48.062 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery-2.0.3.min.js
+2019/08/01 14:56:48.062 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/tools.js
+2019/08/01 14:56:48.066 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.scrollloading.js
+2019/08/01 14:56:48.065 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /static/js/template.min.js
+2019/08/01 14:56:48.065 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /static/js/jquery.easing.js
+2019/08/01 14:56:48.065 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.situa.js
+2019/08/01 14:56:48.066 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/init.js
+2019/08/01 14:56:48.068 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.9µs|   match|[44m GET     [0m /static/js/jquery.fancybox.js
+2019/08/01 14:56:48.068 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.fancybox-buttons.js
+2019/08/01 14:56:48.068 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.fancybox-thumbs.js
+2019/08/01 14:56:48.069 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.fancybox-media.js
+2019/08/01 14:56:48.072 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.3µs|   match|[44m GET     [0m /static/js/jquery.banner.js
+2019/08/01 14:56:48.073 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.menu.js
+2019/08/01 14:56:48.073 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/picture/logo.png
+2019/08/01 14:56:48.075 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/picture/side_icon02.png
+2019/08/01 14:56:48.076 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.2µs|   match|[44m GET     [0m /static/picture/side_icon04.png
+2019/08/01 14:56:48.078 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/picture/side_icon05.png
+2019/08/01 14:56:48.105 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /static/images/header_bg01.png
+2019/08/01 14:56:48.105 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/index_bg01.png
+2019/08/01 14:56:48.105 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/menu_bg02.png
+2019/08/01 14:56:48.105 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/menu_bg01.png
+2019/08/01 14:56:48.106 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/index_bg07.png
+2019/08/01 14:56:48.107 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      998.9µs|   match|[44m GET     [0m /static/images/index_bg12.png
+2019/08/01 14:56:48.107 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/index_bg08.png
+2019/08/01 14:56:48.108 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/index_bg09.png
+2019/08/01 14:56:48.108 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/index_bg10.png
+2019/08/01 14:56:48.110 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /static/images/zxkf.png
+2019/08/01 14:56:48.110 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/icons.gif
+2019/08/01 14:56:48.111 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/zx.png
+2019/08/01 14:56:48.173 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:56:48.186 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /favicon.ico
+2019/08/01 14:57:12.194 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /p_about   r:/p_:page:string
+2019/08/01 14:57:12.200 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/picture/about-banner.jpg
+2019/08/01 14:57:12.201 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.4µs|   match|[44m GET     [0m /static/picture/14201669991914.jpg
+2019/08/01 14:57:12.217 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/loading.gif
+2019/08/01 14:57:12.239 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:13.564 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /p_about   r:/p_:page:string
+2019/08/01 14:57:13.585 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:14.266 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|        997µs|   match|[44m GET     [0m /p_contact   r:/p_:page:string
+2019/08/01 14:57:14.273 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      998.7µs|   match|[44m GET     [0m /static/picture/lxwmewm.jpg
+2019/08/01 14:57:14.287 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/tel_s.png
+2019/08/01 14:57:14.291 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|      998.9µs| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:17.133 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.6µs|   match|[44m GET     [0m /p_fangwei   r:/p_:page:string
+2019/08/01 14:57:17.137 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|        999µs|   match|[44m GET     [0m /static/picture/service-banner.jpg
+2019/08/01 14:57:17.137 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|        999µs|   match|[44m GET     [0m /static/picture/fw1.jpg
+2019/08/01 14:57:17.161 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:19.668 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /fangwei/
+2019/08/01 14:57:21.363 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      998.7µs|   match|[44m GET     [0m /     r:/
+2019/08/01 14:57:21.396 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:22.657 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 14:57:22.664 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      998.3µs|   match|[44m GET     [0m /static/js/jquery.product.js
+2019/08/01 14:57:22.664 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      998.3µs|   match|[44m GET     [0m /static/picture/inner-banner.jpg
+2019/08/01 14:57:22.681 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:24.226 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /p_partners   r:/p_:page:string
+2019/08/01 14:57:24.232 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.mousewheel-3.0.6.pack.js
+2019/08/01 14:57:24.232 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery-1.10.1.min.js
+2019/08/01 14:57:24.232 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/service_ajax.js
+2019/08/01 14:57:24.233 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/picture/buy-banner.jpg
+2019/08/01 14:57:24.233 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/picture/-1-160113164502547.jpg
+2019/08/01 14:57:24.234 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/picture/-1-160113163qg49.jpg
+2019/08/01 14:57:24.255 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:26.147 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.3µs|   match|[44m GET     [0m /p_fangwei   r:/p_:page:string
+2019/08/01 14:57:26.166 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:27.066 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9559ms|   match|[44m GET     [0m /p_news   r:/p_:page:string
+2019/08/01 14:57:27.073 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/picture/news-banner.jpg
+2019/08/01 14:57:27.088 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:27.803 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.7µs|   match|[44m GET     [0m /p_about   r:/p_:page:string
+2019/08/01 14:57:27.821 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:28.345 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      989.3µs|   match|[44m GET     [0m /p_weishang   r:/p_:page:string
+2019/08/01 14:57:28.351 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/qrcode.jpg
+2019/08/01 14:57:28.369 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:28.970 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.0157ms|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:57:28.991 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:31.626 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      973.6µs|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 14:57:31.655 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:36.979 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9933ms|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:57:37.017 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:38.018 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      994.4µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:57:38.040 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:38.443 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     2.0175ms|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:57:38.467 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|      997.5µs| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:38.610 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9717ms|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:57:38.634 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:45.996 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /p_partners   r:/p_:page:string
+2019/08/01 14:57:46.022 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:48.076 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      968.8µs|   match|[44m GET     [0m /p_weishang   r:/p_:page:string
+2019/08/01 14:57:48.098 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:57:50.513 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.7µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:57:50.537 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:58:01.845 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /amdin
+2019/08/01 14:58:04.003 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9952ms|   match|[44m GET     [0m /     r:/
+2019/08/01 14:58:04.097 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:58:59.293 [D] [server.go:2774]  |      127.0.0.1|[47m 302 [0m|           0s|   match|[44m GET     [0m /admin/login.html   r:/admin/?:page
+2019/08/01 14:58:59.297 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.7µs|   match|[44m GET     [0m /admin/login   r:/admin/?:page
+2019/08/01 14:58:59.304 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      993.9µs|   match|[44m GET     [0m /static/assets/css/amazeui.min.css
+2019/08/01 14:58:59.334 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/assets/i/favicon.png
+2019/08/01 14:59:15.840 [D] [server.go:2774]  |      127.0.0.1|[47m 302 [0m|           0s|   match|[46m POST    [0m /api/login   r:/api/login
+2019/08/01 14:59:15.844 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      998.1µs|   match|[44m GET     [0m /admin/index   r:/admin/?:page
+2019/08/01 14:59:15.849 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      986.4µs|   match|[44m GET     [0m /static/assets/css/admin.css
+2019/08/01 14:59:15.849 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      986.4µs|   match|[44m GET     [0m /static/assets/i/examples/admin-chrome.png
+2019/08/01 14:59:15.849 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/assets/i/examples/admin-firefox.png
+2019/08/01 14:59:15.849 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/assets/js/jquery.min.js
+2019/08/01 14:59:15.850 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.9µs|   match|[44m GET     [0m /static/assets/js/amazeui.min.js
+2019/08/01 14:59:15.850 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/assets/js/app.js
+2019/08/01 14:59:15.852 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/assets/i/examples/admin-ie.png
+2019/08/01 14:59:15.855 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/assets/i/examples/admin-opera.png
+2019/08/01 14:59:15.857 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/assets/i/examples/admin-safari.png
+2019/08/01 14:59:15.909 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.7µs|   match|[44m GET     [0m /static/assets/fonts/fontawesome-webfont.woff
+2019/08/01 14:59:24.477 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.8µs|   match|[44m GET     [0m /admin/upload-tag   r:/admin/?:page
+2019/08/01 14:59:27.858 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.7µs|   match|[44m GET     [0m /admin/upload-news   r:/admin/?:page
+2019/08/01 14:59:32.282 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     2.0217ms|   match|[44m GET     [0m /admin/news   r:/admin/?:page
+2019/08/01 14:59:33.012 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.8µs|   match|[44m GET     [0m /admin/tags   r:/admin/?:page
+2019/08/01 14:59:33.852 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     3.0263ms|   match|[44m GET     [0m /admin/products   r:/admin/?:page
+2019/08/01 14:59:34.427 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.3µs|   match|[44m GET     [0m /admin/banners   r:/admin/?:page
+2019/08/01 14:59:35.386 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /admin/upload-news   r:/admin/?:page
+2019/08/01 14:59:40.337 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.3µs|   match|[44m GET     [0m /admin/upload-banner   r:/admin/?:page
+2019/08/01 14:59:40.343 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      998.3µs|   match|[44m GET     [0m /     r:/
+2019/08/01 14:59:52.463 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|    13.9761ms|   match|[46m POST    [0m /api/ImgUpload   r:/api/ImgUpload
+2019/08/01 14:59:56.129 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.5µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:59:56.166 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:59:56.738 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.0159ms|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:59:56.768 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:59:56.914 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9654ms|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:59:56.937 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|      997.4µs| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:59:57.403 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.6µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:59:57.425 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:59:57.713 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.4µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:59:57.736 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:59:57.905 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.0157ms|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:59:57.928 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:59:58.089 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:59:58.111 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:59:58.337 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.5µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:59:58.358 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:59:58.521 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:59:58.542 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 14:59:58.729 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 14:59:58.753 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:00:01.736 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.6µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:00:01.758 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:00:02.394 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.0269ms|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:00:02.417 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:00:02.577 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      995.9µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:00:02.600 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:00:02.761 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.1µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:00:02.785 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:00:02.930 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|        996µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:00:02.953 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:00:03.114 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.4µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:00:03.138 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:00:14.002 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     2.0203ms|   match|[46m POST    [0m /api/ImgUpload   r:/api/ImgUpload
+2019/08/01 15:00:19.713 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|        998µs|   match|[44m GET     [0m /admin/banners   r:/admin/?:page
+2019/08/01 15:00:20.522 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|        996µs|   match|[44m GET     [0m /admin/banners   r:/admin/?:page
+2019/08/01 15:00:20.731 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      995.2µs|   match|[44m GET     [0m /admin/banners   r:/admin/?:page
+2019/08/01 15:00:20.914 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.5µs|   match|[44m GET     [0m /admin/banners   r:/admin/?:page
+2019/08/01 15:00:27.898 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /admin/banners   r:/admin/?:page
+2019/08/01 15:00:28.412 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.2µs|   match|[44m GET     [0m /admin/banners   r:/admin/?:page
+2019/08/01 15:00:30.561 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.5µs|   match|[44m GET     [0m /admin/upload-banner   r:/admin/?:page
+2019/08/01 15:00:30.567 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /     r:/
+2019/08/01 15:00:33.539 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /admin/upload-tag   r:/admin/?:page
+2019/08/01 15:00:34.619 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.2µs|   match|[44m GET     [0m /admin/upload-product   r:/admin/?:page
+2019/08/01 15:00:34.625 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.7µs|   match|[44m GET     [0m /     r:/
+2019/08/01 15:00:51.322 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.5µs|   match|[46m POST    [0m /api/ImgUpload   r:/api/ImgUpload
+2019/08/01 15:00:57.177 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /static/assets/js/jquery.min.map
+2019/08/01 15:01:07.026 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.3µs|   match|[44m GET     [0m /admin/upload-tag   r:/admin/?:page
+2019/08/01 15:01:17.474 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     2.0274ms|   match|[46m POST    [0m /api/ImgUpload   r:/api/ImgUpload
+2019/08/01 15:01:19.250 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|    34.9857ms|   match|[46m POST    [0m /api/upload/productTag   r:/api/upload/?:name
+2019/08/01 15:01:20.466 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.0255ms|   match|[44m GET     [0m /admin/upload-tag   r:/admin/?:page
+2019/08/01 15:01:21.882 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /admin/upload-product   r:/admin/?:page
+2019/08/01 15:01:21.889 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.4µs|   match|[44m GET     [0m /     r:/
+2019/08/01 15:01:29.977 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /admin/upload-banner   r:/admin/?:page
+2019/08/01 15:01:29.984 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9951ms|   match|[44m GET     [0m /     r:/
+2019/08/01 15:01:32.713 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      998.1µs|   match|[44m GET     [0m /admin/banners   r:/admin/?:page
+2019/08/01 15:01:33.683 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /admin/products   r:/admin/?:page
+2019/08/01 15:01:34.388 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9926ms|   match|[44m GET     [0m /admin/tags   r:/admin/?:page
+2019/08/01 15:01:36.642 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.6µs|   match|[44m GET     [0m /admin/news   r:/admin/?:page
+2019/08/01 15:01:39.851 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9933ms|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 15:01:39.875 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|      969.9µs| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:01:41.330 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      1.994ms|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 15:01:41.350 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:01:41.843 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.7µs|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 15:01:41.862 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:01:42.034 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.7µs|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 15:01:42.057 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:01:42.209 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 15:01:42.228 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|      995.7µs| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:01:42.410 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      980.8µs|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 15:01:42.428 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:01:42.601 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      995.9µs|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 15:01:42.621 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:01:44.226 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.4µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:01:44.241 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/index_bg04.png
+2019/08/01 15:01:44.241 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/upload/banner/1564642877_263938.jpg
+2019/08/01 15:01:44.251 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:01:45.992 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.3µs|   match|[44m GET     [0m /static/images/index_bg03.png
+2019/08/01 15:01:46.329 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.3µs|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 15:01:46.347 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:01:47.130 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|        996µs|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 15:01:47.148 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:01:48.138 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9958ms|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:01:48.153 [D] [server.go:2774]  |      127.0.0.1|[47m 304 [0m|           0s|   match|[44m GET     [0m /static/upload/banner/1564642877_263938.jpg
+2019/08/01 15:01:48.164 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:01:49.507 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9939ms|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 15:01:49.530 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:01:51.210 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.2µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:01:51.225 [D] [server.go:2774]  |      127.0.0.1|[47m 304 [0m|           0s|   match|[44m GET     [0m /static/upload/banner/1564642877_263938.jpg
+2019/08/01 15:01:51.233 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:10:05.588 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.5µs|   match|[44m GET     [0m /admin/upload-tag   r:/admin/?:page
+2019/08/01 15:10:10.858 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.0186ms|   match|[44m GET     [0m /admin/products   r:/admin/?:page
+2019/08/01 15:10:11.955 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.3µs|   match|[44m GET     [0m /admin/tags   r:/admin/?:page
+2019/08/01 15:10:13.731 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|        998µs|   match|[44m GET     [0m /admin/products   r:/admin/?:page
+2019/08/01 15:10:17.763 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.0064ms|   match|[44m GET     [0m /admin/upload-tag   r:/admin/?:page
+2019/08/01 15:10:18.700 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9944ms|   match|[44m GET     [0m /admin/upload-product   r:/admin/?:page
+2019/08/01 15:10:18.707 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9948ms|   match|[44m GET     [0m /     r:/
+2019/08/01 15:10:19.841 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /admin/upload-news   r:/admin/?:page
+2019/08/01 15:10:25.017 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 15:10:25.054 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|      997.4µs| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:10:27.848 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /p_products.html
+2019/08/01 15:12:36.091 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.9µs|   match|[44m GET     [0m /admin/news   r:/admin/?:page
+2019/08/01 15:12:37.106 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /admin/tags   r:/admin/?:page
+2019/08/01 15:12:37.946 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /admin/products   r:/admin/?:page
+2019/08/01 15:12:38.689 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      998.9µs|   match|[44m GET     [0m /admin/banners   r:/admin/?:page
+2019/08/01 15:13:25.410 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.0243ms|   match|[44m GET     [0m /admin/upload-news   r:/admin/?:page
+2019/08/01 15:13:26.946 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      969.2µs|   match|[44m GET     [0m /admin/upload-tag   r:/admin/?:page
+2019/08/01 15:13:37.074 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.7µs|   match|[44m GET     [0m /p_weishang   r:/p_:page:string
+2019/08/01 15:13:37.108 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|      970.2µs| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:13:42.777 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.8µs|   match|[44m GET     [0m /p_shouquan   r:/p_:page:string
+2019/08/01 15:13:42.783 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/picture/sq1.jpg
+2019/08/01 15:13:42.800 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:21:16.604 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9944ms|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:21:16.627 [D] [server.go:2774]  |      127.0.0.1|[47m 304 [0m|           0s|   match|[44m GET     [0m /static/upload/banner/1564642877_263938.jpg
+2019/08/01 15:21:16.642 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:21:24.898 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.0076ms|   match|[44m GET     [0m /p_weishang   r:/p_:page:string
+2019/08/01 15:21:24.922 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:21:25.971 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     2.0237ms|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:21:26.008 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:21:26.513 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /p_products   r:/p_:page:string
+2019/08/01 15:21:26.534 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:21:27.203 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      1.968ms|   match|[44m GET     [0m /p_partners   r:/p_:page:string
+2019/08/01 15:21:27.234 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:21:27.714 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.4µs|   match|[44m GET     [0m /p_fangwei   r:/p_:page:string
+2019/08/01 15:21:27.734 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:21:28.427 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     1.9952ms|   match|[44m GET     [0m /p_news   r:/p_:page:string
+2019/08/01 15:21:28.444 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:21:28.810 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.1µs|   match|[44m GET     [0m /p_about   r:/p_:page:string
+2019/08/01 15:21:28.830 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:23:28.665 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.8µs|   match|[44m GET     [0m /p_about   r:/p_:page:string
+2019/08/01 15:23:28.687 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:23:29.298 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      999.4µs|   match|[44m GET     [0m /p_about   r:/p_:page:string
+2019/08/01 15:23:29.318 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:23:29.898 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.2µs|   match|[44m GET     [0m /p_about   r:/p_:page:string
+2019/08/01 15:23:29.917 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|      776.4µs| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:23:30.314 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      996.6µs|   match|[44m GET     [0m /p_about   r:/p_:page:string
+2019/08/01 15:23:30.334 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:23:30.473 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.5µs|   match|[44m GET     [0m /p_about   r:/p_:page:string
+2019/08/01 15:23:30.492 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:23:30.641 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|        997µs|   match|[44m GET     [0m /p_about   r:/p_:page:string
+2019/08/01 15:23:30.661 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:23:31.338 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|        997µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:23:31.355 [D] [server.go:2774]  |      127.0.0.1|[47m 304 [0m|           0s|   match|[44m GET     [0m /static/upload/banner/1564642877_263938.jpg
+2019/08/01 15:23:31.367 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:23:32.587 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.2µs|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:23:32.610 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:23:33.273 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|     4.9931ms|   match|[44m GET     [0m /p_index   r:/p_:page:string
+2019/08/01 15:23:33.279 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/css/bootstrap.min.css
+2019/08/01 15:23:33.281 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/css/style.css
+2019/08/01 15:23:33.282 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/css/jquery.lightbox.css
+2019/08/01 15:23:33.282 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/css/jquery.fancybox.css
+2019/08/01 15:23:33.282 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/css/jquery.fancybox-buttons.css
+2019/08/01 15:23:33.282 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/css/jquery.fancybox-thumbs.css
+2019/08/01 15:23:33.283 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery-2.0.3.min.js
+2019/08/01 15:23:33.283 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/tools.js
+2019/08/01 15:23:33.286 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      995.7µs|   match|[44m GET     [0m /static/js/template.min.js
+2019/08/01 15:23:33.286 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.easing.js
+2019/08/01 15:23:33.286 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.situa.js
+2019/08/01 15:23:33.286 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.scrollloading.js
+2019/08/01 15:23:33.288 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/init.js
+2019/08/01 15:23:33.288 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.fancybox.js
+2019/08/01 15:23:33.288 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.fancybox-buttons.js
+2019/08/01 15:23:33.289 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.fancybox-media.js
+2019/08/01 15:23:33.292 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.fancybox-thumbs.js
+2019/08/01 15:23:33.293 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|      997.8µs|   match|[44m GET     [0m /static/js/jquery.menu.js
+2019/08/01 15:23:33.293 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/js/jquery.banner.js
+2019/08/01 15:23:33.293 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/picture/logo.png
+2019/08/01 15:23:33.294 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/picture/side_icon02.png
+2019/08/01 15:23:33.294 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/picture/side_icon04.png
+2019/08/01 15:23:33.295 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/picture/side_icon05.png
+2019/08/01 15:23:33.304 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/header_bg01.png
+2019/08/01 15:23:33.304 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/menu_bg02.png
+2019/08/01 15:23:33.304 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/menu_bg01.png
+2019/08/01 15:23:33.305 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/index_bg01.png
+2019/08/01 15:23:33.305 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/upload/banner/1564642877_263938.jpg
+2019/08/01 15:23:33.306 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/index_bg04.png
+2019/08/01 15:23:33.307 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/index_bg07.png
+2019/08/01 15:23:33.308 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/index_bg12.png
+2019/08/01 15:23:33.309 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/index_bg08.png
+2019/08/01 15:23:33.310 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/index_bg09.png
+2019/08/01 15:23:33.310 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/index_bg10.png
+2019/08/01 15:23:33.311 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/icons.gif
+2019/08/01 15:23:33.311 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/zxkf.png
+2019/08/01 15:23:33.312 [D] [server.go:2774]  |      127.0.0.1|[42m 200 [0m|           0s|   match|[44m GET     [0m /static/images/zx.png
+2019/08/01 15:23:33.315 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /undefined
+2019/08/01 15:23:33.322 [D] [server.go:2774]  |      127.0.0.1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /favicon.ico
